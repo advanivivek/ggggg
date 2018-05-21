@@ -1766,6 +1766,7 @@ body {
 }
 .cid-qRF84WkfQK H1 {
   color: #ffffff;
+  text-align: left;
 }
 .cid-qRF84WkfQK H3 {
   color: #ffffff;
@@ -5877,7 +5878,7 @@ body {
 }
 .cid-qSqhNcIbFx {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-qSqhNcIbFx .list-group-item {
@@ -5936,6 +5937,22 @@ body {
 }
 .cid-qSqhNcIbFx .plan-title B {
   color: #ff7f9f;
+}
+.cid-qSqhNcIbFx UL {
+  text-align: center;
+}
+.cid-qSIGnmBwR1 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-qSIGnmBwR1 .mbr-text,
+.cid-qSIGnmBwR1 blockquote {
+  color: #767676;
+}
+.cid-qSIGnmBwR1 .mbr-text {
+  text-align: center;
+  color: #767676;
 }
 .cid-qRPHQs2YwA {
   padding-top: 45px;
