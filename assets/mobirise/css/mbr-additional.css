@@ -2281,8 +2281,8 @@ body {
   color: #232323;
 }
 .cid-qRGbC3Q0La {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #000000;
 }
 .cid-qRGbC3Q0La .socicon-bg-facebook {
@@ -2328,43 +2328,39 @@ body {
 .cid-qRGbC3Q0La .mbr-section-title {
   color: #ffffff;
 }
-.cid-qSlvrywq7b {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/susan-mohr-572893-unsplash-2000x1293.jpg");
+.cid-qSMOULw5Jw {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/susan-mohr-572893-unsplash-2-2000x1293.jpg");
 }
-@media (max-width: 767px) {
-  .cid-qSlvrywq7b .content {
-    text-align: center;
-  }
-  .cid-qSlvrywq7b .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
+.cid-qSMOULw5Jw .row-links {
+  width: 100%;
+  justify-content: center;
 }
-@media (max-width: 767px) {
-  .cid-qSlvrywq7b .media-wrap {
-    margin-bottom: 1rem;
-  }
+.cid-qSMOULw5Jw .social-row {
+  width: 100%;
+  justify-content: center;
 }
-.cid-qSlvrywq7b .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
+.cid-qSMOULw5Jw .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.cid-qSlvrywq7b .media-wrap img {
-  height: 6rem;
+.cid-qSMOULw5Jw .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
 }
-@media (max-width: 767px) {
-  .cid-qSlvrywq7b .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-qSMOULw5Jw .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
 }
-.cid-qSlvrywq7b .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
+.cid-qSMOULw5Jw .media-container-row .foot-menu li p {
+  margin: 0;
 }
-.cid-qSlvrywq7b .footer-lower .social-list {
+.cid-qSMOULw5Jw .media-container-row .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2373,27 +2369,40 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qSlvrywq7b .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
+.cid-qSMOULw5Jw .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
 }
-.cid-qSlvrywq7b .footer-lower .social-list .soc-item {
+.cid-qSMOULw5Jw .media-container-row .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qSlvrywq7b .footer-lower .social-list a {
+.cid-qSMOULw5Jw .media-container-row .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qSlvrywq7b .footer-lower .social-list a:hover {
+.cid-qSMOULw5Jw .media-container-row .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qSlvrywq7b .footer-lower .social-list {
+  .cid-qSMOULw5Jw .media-container-row .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qSMOULw5Jw .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-qSMOULw5Jw .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-qSMOULw5Jw foot-menu-item B {
+  color: #f9f295;
+}
+.cid-qSMOULw5Jw foot-menu-item {
+  color: #f9f295;
 }
 .cid-qRF82w1G7c .navbar {
   background: #ffffff;
@@ -3109,39 +3118,39 @@ body {
     margin: 0 0.5rem;
   }
 }
-.cid-qSH5AK5rmr {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/wood-3211004-2000x1333.jpg");
+.cid-qSMV1QtAiA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/susan-mohr-572893-unsplash-2-2000x1293.jpg");
 }
-@media (max-width: 767px) {
-  .cid-qSH5AK5rmr .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-qSMV1QtAiA .row-links {
+  width: 100%;
+  justify-content: center;
 }
-.cid-qSH5AK5rmr .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
+.cid-qSMV1QtAiA .social-row {
+  width: 100%;
+  justify-content: center;
 }
-.cid-qSH5AK5rmr .media-wrap img {
-  height: 6rem;
+.cid-qSMV1QtAiA .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.cid-qSH5AK5rmr .mbr-text {
-  color: #767676;
+.cid-qSMV1QtAiA .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
 }
-@media (max-width: 767px) {
-  .cid-qSH5AK5rmr .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-qSMV1QtAiA .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
 }
-.cid-qSH5AK5rmr .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
+.cid-qSMV1QtAiA .media-container-row .foot-menu li p {
+  margin: 0;
 }
-.cid-qSH5AK5rmr .footer-lower .social-list {
+.cid-qSMV1QtAiA .media-container-row .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -3150,30 +3159,40 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qSH5AK5rmr .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #232323;
+.cid-qSMV1QtAiA .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
 }
-.cid-qSH5AK5rmr .footer-lower .social-list .soc-item {
+.cid-qSMV1QtAiA .media-container-row .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qSH5AK5rmr .footer-lower .social-list a {
+.cid-qSMV1QtAiA .media-container-row .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qSH5AK5rmr .footer-lower .social-list a:hover {
+.cid-qSMV1QtAiA .media-container-row .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qSH5AK5rmr .footer-lower .social-list {
+  .cid-qSMV1QtAiA .media-container-row .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-qSH5AK5rmr .copyright > p {
-  color: #efefef;
+.cid-qSMV1QtAiA .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-qSMV1QtAiA .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-qSMV1QtAiA foot-menu-item B {
+  color: #f9f295;
+}
+.cid-qSMV1QtAiA foot-menu-item {
+  color: #f9f295;
 }
 .cid-qRF82w1G7c .navbar {
   background: #ffffff;
@@ -4221,6 +4240,82 @@ body {
   display: block;
   text-align: center;
 }
+.cid-qSMVg3uWAv {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/susan-mohr-572893-unsplash-2-2000x1293.jpg");
+}
+.cid-qSMVg3uWAv .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-qSMVg3uWAv .social-row {
+  width: 100%;
+  justify-content: center;
+}
+.cid-qSMVg3uWAv .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cid-qSMVg3uWAv .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-qSMVg3uWAv .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-qSMVg3uWAv .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-qSMVg3uWAv .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qSMVg3uWAv .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-qSMVg3uWAv .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qSMVg3uWAv .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qSMVg3uWAv .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qSMVg3uWAv .media-container-row .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-qSMVg3uWAv .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-qSMVg3uWAv .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-qSMVg3uWAv foot-menu-item B {
+  color: #f9f295;
+}
+.cid-qSMVg3uWAv foot-menu-item {
+  color: #f9f295;
+}
 .cid-qRF82w1G7c .navbar {
   background: #ffffff;
   transition: none;
@@ -4799,6 +4894,82 @@ body {
   display: block;
   text-align: center;
 }
+.cid-qSMVmyNlLE {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/susan-mohr-572893-unsplash-2-2000x1293.jpg");
+}
+.cid-qSMVmyNlLE .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-qSMVmyNlLE .social-row {
+  width: 100%;
+  justify-content: center;
+}
+.cid-qSMVmyNlLE .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cid-qSMVmyNlLE .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-qSMVmyNlLE .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-qSMVmyNlLE .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-qSMVmyNlLE .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qSMVmyNlLE .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-qSMVmyNlLE .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qSMVmyNlLE .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qSMVmyNlLE .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qSMVmyNlLE .media-container-row .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-qSMVmyNlLE .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-qSMVmyNlLE .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-qSMVmyNlLE foot-menu-item B {
+  color: #f9f295;
+}
+.cid-qSMVmyNlLE foot-menu-item {
+  color: #f9f295;
+}
 .cid-qRF82w1G7c .navbar {
   background: #ffffff;
   transition: none;
@@ -5321,39 +5492,39 @@ body {
 .cid-qRPJIgWEx4 .mbr-section-title {
   color: #ffffff;
 }
-.cid-qRQ4ltTn0x {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/wood-3211004-2000x1333.jpg");
+.cid-qSMVqWxUuL {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/susan-mohr-572893-unsplash-2-2000x1293.jpg");
 }
-@media (max-width: 767px) {
-  .cid-qRQ4ltTn0x .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-qSMVqWxUuL .row-links {
+  width: 100%;
+  justify-content: center;
 }
-.cid-qRQ4ltTn0x .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
+.cid-qSMVqWxUuL .social-row {
+  width: 100%;
+  justify-content: center;
 }
-.cid-qRQ4ltTn0x .media-wrap img {
-  height: 6rem;
+.cid-qSMVqWxUuL .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.cid-qRQ4ltTn0x .mbr-text {
-  color: #767676;
+.cid-qSMVqWxUuL .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
 }
-@media (max-width: 767px) {
-  .cid-qRQ4ltTn0x .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-qSMVqWxUuL .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
 }
-.cid-qRQ4ltTn0x .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
+.cid-qSMVqWxUuL .media-container-row .foot-menu li p {
+  margin: 0;
 }
-.cid-qRQ4ltTn0x .footer-lower .social-list {
+.cid-qSMVqWxUuL .media-container-row .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -5362,30 +5533,40 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qRQ4ltTn0x .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #232323;
+.cid-qSMVqWxUuL .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
 }
-.cid-qRQ4ltTn0x .footer-lower .social-list .soc-item {
+.cid-qSMVqWxUuL .media-container-row .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qRQ4ltTn0x .footer-lower .social-list a {
+.cid-qSMVqWxUuL .media-container-row .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qRQ4ltTn0x .footer-lower .social-list a:hover {
+.cid-qSMVqWxUuL .media-container-row .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qRQ4ltTn0x .footer-lower .social-list {
+  .cid-qSMVqWxUuL .media-container-row .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-qRQ4ltTn0x .copyright > p {
-  color: #efefef;
+.cid-qSMVqWxUuL .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-qSMVqWxUuL .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-qSMVqWxUuL foot-menu-item B {
+  color: #f9f295;
+}
+.cid-qSMVqWxUuL foot-menu-item {
+  color: #f9f295;
 }
 .cid-qRF82w1G7c .navbar {
   background: #ffffff;
@@ -6054,39 +6235,39 @@ body {
   text-align: center;
   color: #767676;
 }
-.cid-qRPHQs2YwA {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/wood-3211004-2000x1333.jpg");
+.cid-qSMVxcQ5rV {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/susan-mohr-572893-unsplash-2-2000x1293.jpg");
 }
-@media (max-width: 767px) {
-  .cid-qRPHQs2YwA .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-qSMVxcQ5rV .row-links {
+  width: 100%;
+  justify-content: center;
 }
-.cid-qRPHQs2YwA .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
+.cid-qSMVxcQ5rV .social-row {
+  width: 100%;
+  justify-content: center;
 }
-.cid-qRPHQs2YwA .media-wrap img {
-  height: 6rem;
+.cid-qSMVxcQ5rV .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.cid-qRPHQs2YwA .mbr-text {
-  color: #767676;
+.cid-qSMVxcQ5rV .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
 }
-@media (max-width: 767px) {
-  .cid-qRPHQs2YwA .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-qSMVxcQ5rV .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
 }
-.cid-qRPHQs2YwA .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
+.cid-qSMVxcQ5rV .media-container-row .foot-menu li p {
+  margin: 0;
 }
-.cid-qRPHQs2YwA .footer-lower .social-list {
+.cid-qSMVxcQ5rV .media-container-row .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -6095,30 +6276,40 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qRPHQs2YwA .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #232323;
+.cid-qSMVxcQ5rV .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
 }
-.cid-qRPHQs2YwA .footer-lower .social-list .soc-item {
+.cid-qSMVxcQ5rV .media-container-row .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qRPHQs2YwA .footer-lower .social-list a {
+.cid-qSMVxcQ5rV .media-container-row .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qRPHQs2YwA .footer-lower .social-list a:hover {
+.cid-qSMVxcQ5rV .media-container-row .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qRPHQs2YwA .footer-lower .social-list {
+  .cid-qSMVxcQ5rV .media-container-row .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-qRPHQs2YwA .copyright > p {
-  color: #efefef;
+.cid-qSMVxcQ5rV .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-qSMVxcQ5rV .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-qSMVxcQ5rV foot-menu-item B {
+  color: #f9f295;
+}
+.cid-qSMVxcQ5rV foot-menu-item {
+  color: #f9f295;
 }
 .cid-qRF82w1G7c .navbar {
   background: #ffffff;
@@ -6543,39 +6734,39 @@ body {
 .cid-qRKUXK3RuF .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-qRKV1zdcyO {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/wood-3211004-2000x1333.jpg");
+.cid-qSMVCKC6tF {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/susan-mohr-572893-unsplash-2-2000x1293.jpg");
 }
-@media (max-width: 767px) {
-  .cid-qRKV1zdcyO .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-qSMVCKC6tF .row-links {
+  width: 100%;
+  justify-content: center;
 }
-.cid-qRKV1zdcyO .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
+.cid-qSMVCKC6tF .social-row {
+  width: 100%;
+  justify-content: center;
 }
-.cid-qRKV1zdcyO .media-wrap img {
-  height: 6rem;
+.cid-qSMVCKC6tF .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.cid-qRKV1zdcyO .mbr-text {
-  color: #767676;
+.cid-qSMVCKC6tF .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
 }
-@media (max-width: 767px) {
-  .cid-qRKV1zdcyO .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-qSMVCKC6tF .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
 }
-.cid-qRKV1zdcyO .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
+.cid-qSMVCKC6tF .media-container-row .foot-menu li p {
+  margin: 0;
 }
-.cid-qRKV1zdcyO .footer-lower .social-list {
+.cid-qSMVCKC6tF .media-container-row .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -6584,28 +6775,38 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qRKV1zdcyO .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #232323;
+.cid-qSMVCKC6tF .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
 }
-.cid-qRKV1zdcyO .footer-lower .social-list .soc-item {
+.cid-qSMVCKC6tF .media-container-row .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qRKV1zdcyO .footer-lower .social-list a {
+.cid-qSMVCKC6tF .media-container-row .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qRKV1zdcyO .footer-lower .social-list a:hover {
+.cid-qSMVCKC6tF .media-container-row .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qRKV1zdcyO .footer-lower .social-list {
+  .cid-qSMVCKC6tF .media-container-row .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-qRKV1zdcyO .copyright > p {
-  color: #efefef;
+.cid-qSMVCKC6tF .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-qSMVCKC6tF .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-qSMVCKC6tF foot-menu-item B {
+  color: #f9f295;
+}
+.cid-qSMVCKC6tF foot-menu-item {
+  color: #f9f295;
 }
